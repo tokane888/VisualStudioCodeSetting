@@ -1,0 +1,36 @@
+{
+  "extensions.ignoreRecommendations": false,
+  "workbench.startupEditor": "newUntitledFile",
+  "window.zoomLevel": 0,
+  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+  "editor.tabSize": 2,
+  "cSpell.userWords": [
+    "bookmarklet",
+    "proto",
+    "readonly"
+  ],
+  "explorer.confirmDelete": false,
+  "files.associations": {
+    "*.tag": "htmltag",
+    "*.riot": "htmltag",
+    "*.tpl": "htmltag"
+  },
+  "editor.detectIndentation": false,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.includeLanguages": {
+    "htmltag": "html"
+  },
+  "auto-close-tag.activationOnLanguage": [
+    "htmltag"
+  ],
+  "[javascript]": {
+    "editor.formatOnSave": false
+  },
+  "editor.formatOnSave": false,
+  "eslint.autoFixOnSave": true,
+  "eslint.alwaysShowStatus": true,
+  "files.eol": "\n",
+  "aws.samcli.location": "C:\\Users\\tom\\AppData\\Roaming\\Python\\Python37\\Scripts\\sam.exe",
+  "terminal.integrated.rendererType": "dom"
+}
